@@ -19,7 +19,7 @@ public class PracticeProblem{
 	        }
 	        
 	        else{
-	            arr[i2] = s1;
+	            arr1[i2] = s1;
 	        }
 	        
 	    }
