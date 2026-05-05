@@ -8,7 +8,7 @@ public class PracticeProblem{
 	public static void main(String[] args) {
 	}
 	
-	public static String[] addString(String s1, String[] arr,int theindex){
+	public static String[] addString(String[] arr, String s1, int theindex){
 	    String[] arr1 = new String[arr.length+1];
 	    int exclude = 0;
 	    for (int i2 = 0; i2 < arr1.length; i2++){
@@ -46,4 +46,5 @@ public class PracticeProblem{
 	
 	
 }
+
 
